@@ -5,5 +5,6 @@ public class Class01 {
         //V2 calismalarim...
         System.out.println("v3 kodlari..."); //V3
         //V4 kisa yoldan commit
+        //Github changes
     }
 }
